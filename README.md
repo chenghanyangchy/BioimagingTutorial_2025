@@ -45,7 +45,7 @@ Once the virtual environment has been generated, activate it with this command:
     conda activate bio325_2022
 
 
-## Clone the bio325_2021 github repository and install the requirements
+## Clone the bio325_2022 github repository and install the requirements
 
 Make sure that your virtual environment is activated.
 Execute the following commands in your command prompt:
@@ -66,6 +66,6 @@ all the required python packages listed in the file "requirements.txt" will be i
 </ol>
 
 ## Start Jupyter Lab
-Start jupyter lab from the console within the bio325_2021 folder:
+Start jupyter lab from the console within the bio325_2022 folder:
 
     jupyter-lab
