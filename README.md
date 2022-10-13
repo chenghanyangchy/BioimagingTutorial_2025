@@ -1,6 +1,13 @@
 # bio325_2022
 IT introduction for BIO325 (fall 2022)
 
+## Download the data for the tutorial
+
+<ol>
+<li> Open a web browser and visit https://bit.ly/bio325_data. </li>
+<li> Download the whole folder containing the data to your local machine.</li>
+</ol>
+
 ## Installation of Git for Windows
 
 <ol>
@@ -58,12 +65,6 @@ Execute the following commands in your command prompt:
 
 all the required python packages listed in the file "requirements.txt" will be installed.
 
-## Download the data for the tutorial
-
-<ol>
-<li> Open a web browser and visit https://bit.ly/bio325_data. </li>
-<li> Download the whole folder containing the data to your local machine.</li>
-</ol>
 
 ## Start Jupyter Lab
 Start jupyter lab from the console within the bio325_2022 folder:
