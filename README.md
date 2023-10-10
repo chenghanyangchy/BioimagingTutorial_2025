@@ -1,5 +1,5 @@
-# bio325_2022
-IT introduction for BIO325 (fall 2022)
+# bio325_2023
+IT introduction for BIO325 (fall 2023)
 
 ## Download the data for the tutorial
 
@@ -45,21 +45,21 @@ Linux and macOS users may use their default terminals
 
 Execute the following command in your command prompt:
 
-    conda create -n bio325_2022 python=3.9
+    conda create -n bio325_2023 python=3.9
 
 Once the virtual environment has been generated, activate it with this command:
 
-    conda activate bio325_2022
+    conda activate bio325_2023
 
 
-## Clone the bio325_2022 github repository and install the requirements
+## Clone the bio325_2023 github repository and install the requirements
 
 Make sure that your virtual environment is activated.
 Execute the following commands in your command prompt:
 
 
-    git clone https://github.com/adrtsc/bio325_2022
-    cd bio325_2022
+    git clone https://github.com/adrtsc/bio325_2023
+    cd bio325_2023
     pip install -r requirements.txt
 
 
@@ -67,6 +67,6 @@ all the required python packages listed in the file "requirements.txt" will be i
 
 
 ## Start Jupyter Lab
-Start jupyter lab from the console within the bio325_2022 folder:
+Start jupyter lab from the console within the bio325_2023 folder:
 
     jupyter-lab
