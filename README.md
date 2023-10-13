@@ -58,7 +58,7 @@ Make sure that your virtual environment is activated.
 Execute the following commands in your command prompt:
 
 
-    git clone https://github.com/adrtsc/bio325_2023
+    git clone https://github.com/sovinn92/bio325_2023
     cd bio325_2023
     pip install -r requirements.txt
 
