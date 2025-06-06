@@ -1,4 +1,4 @@
-# bio325_2024
+# BioimagingTutorial_2025
 IT introduction for BioimagingTutorial (summer 2025)
 
 ## Installation of Miniconda
